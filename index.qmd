@@ -2,6 +2,8 @@
 title: "Baseball"
 ---
 
-This is a Quarto website.
+# Baseball Through the Data
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site uses the Lahman database to explore Major League Baseball history. Raw home-run totals can make shortened seasons look like dramatic slumps; comparing home runs per team-game gives a fairer view of how the rate changed.
+
+Visit **Home runs** in the navbar to explore the season trend and compare shortened seasons. **Sluggers** ranks career home-run leaders and takes a closer look at Barry Bonds’ season-by-season totals.
