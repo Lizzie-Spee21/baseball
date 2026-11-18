@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "Baseball Through the Data\nThis site uses the Lahman database to explore Major League Baseball history. Raw home-run totals can make shortened seasons look like dramatic slumps; comparing home runs per team-game gives a fairer view of how the rate changed.\nVisit Home runs in the navbar to explore the season trend and compare shortened seasons. Sluggers ranks career home-run leaders and takes a closer look at Barry Bonds’ season-by-season totals."
+  },
+  {
+    "objectID": "home-runs.html",
+    "href": "home-runs.html",
+    "title": "Home runs",
+    "section": "",
+    "text": "Warning: Removed 1 row containing missing values or values outside the scale range\n(`geom_point()`).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nyearID\ntotal_home_runs\ntotal_team_games\nhome_runs_per_game\n\n\n\n\n1981\n1781\n2788\n0.64\n\n\n1994\n3306\n3200\n1.03\n\n\n2019\n6776\n4858\n1.39\n\n\n2020\n2304\n1796\n1.28"
+  }
+]
